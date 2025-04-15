@@ -925,7 +925,7 @@ section {
     display: inline-block;
     padding: 10px 20px;
     cursor: pointer;
-    background: #f1f1f1;
+    background: #8400ff;
     margin-right: 5px;
     border-radius: 5px 5px 0 0;
 }
@@ -938,7 +938,7 @@ section {
 .tab-pane {
     display: none;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #8400ff;
     border-top: none;
 }
 
