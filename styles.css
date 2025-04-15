@@ -1,6 +1,6 @@
 /* Базовые стили */
 :root {
-    --primary-color: #ff00f;
+    --primary-color: #ff00ff;
     --secondary-color: #34a853;
     --danger-color: #f51f0c;
     --text-color: #333;
@@ -931,7 +931,7 @@ section {
 }
 
 .tab-btn.active {
-    background: #ddd;
+    background: #8400ff;
     font-weight: bold;
 }
 
