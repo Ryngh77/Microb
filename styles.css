@@ -1,12 +1,12 @@
 /* Базовые стили */
 :root {
-    --primary-color: #4285f4;
+    --primary-color: #ff00f;
     --secondary-color: #34a853;
-    --danger-color: #ea4335;
+    --danger-color: #f51f0c;
     --text-color: #333;
     --light-gray: #f5f5f5;
-    --gray: #ddd;
-    --dark-gray: #777;
+    --gray: #e6afaf;
+    --dark-gray: #5e4646;
     --white: #fff;
     --black: #000;
     --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
